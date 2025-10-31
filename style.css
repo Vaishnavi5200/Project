@@ -20,9 +20,9 @@
 }
 .logo {
     background-image: url("images/ShopEasylogo.png");
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
-    height: 60px;
+    height: 50px;
     width: 100px;
 }
 .border {
@@ -261,10 +261,8 @@ ul a:hover {
 
 .logo2 {
     background-image: url("images/ShopEasylogo.png");
-    background-size: contain;
-    background-repeat: no-repeat;
     height: 50px;
-    width: 100px;
+    width: 105px;
 }
 
 .foot-panel4 {
